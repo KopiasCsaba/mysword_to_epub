@@ -9,6 +9,8 @@ A Python tool that converts MySword Bible databases into EPUB 2.0 format files o
 - ✅ EPUB 2.0 compliant output with OEBPS structure
 - ✅ Optimized for e-readers (tested with KoReader)
 - ✅ Generates clean, minimal HTML with proper navigation
+- 
+![kjvepub.gif](docs/kjvepub.gif)
 
 ## Requirements
 
