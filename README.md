@@ -79,21 +79,6 @@ options:
 ```
 
 
-## MySword Resources
-
-- [MySword Modules Format Documentation](https://mysword.info/modules-format)
-- MySword databases can be downloaded from various online repositories
-
-## Example
-
-```bash
-# Convert KJV Bible to EPUB
-python3 mysword_to_epub.py \
-  --text-db mysword/bibles/kjv.bbl.mybible \
-  --books-db mysword/languages/en-English.lang.mybible \
-  --output kjv-bible.epub
-```
-
 ## Contributing
 
 1. Fork the repository
